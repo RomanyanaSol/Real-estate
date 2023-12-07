@@ -1,16 +1,16 @@
-# Pizza online store
+# Real estate store
 
 ## Demo
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Pizza/blob/main/PizzaDemo.gif">
+<img src="https://github.com/RomanyanaSol/Real-estate/blob/main/Real%20estate%20Demo.gif">
 </p>
 
 
 
 ## About The Project
 
-- online-store has categories, search and basket
+- online-store has search: country, type and price
 - responsive design
 
 <p align="center">
